@@ -32,6 +32,9 @@ You may work within a group or by yourself.
 * May 2nd (Wed): ***FINAL PROJECT PRESENTATIONS***
 * May 7th (Mon): IM Show
 
-## Repo
-Use this repo to store all your code, sketches, documentation, etc.
+## Final Project Ideas
+My idea for the final project is to create an automatic Instagram captioning system that writes "witty" captons for you. 
+![Instagram logo](https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-instagram-new-square2-512.png)
+![Insta Captions](https://static1.squarespace.com/static/57841c2415d5db7cc11c8961/t/57aed0636a4963d4444f5436/1471074440009/?format=1500w)
 
+I plan to use [this](https://github.com/tensorflow/models/tree/master/research/im2txt) tensor flow library to analyze the content in  a picture. Training will be done with celebritie's instagram pictures. 
